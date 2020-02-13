@@ -1,7 +1,12 @@
-#include<iostream>
-using namespace std;
+#include<stdio.h>
 
-int main(){
-cout<<"Holaaa wolrde";
+
+
+
+
+
+int main()
+{
+printf("Holaaa wolrde");
 return 0;
 }
