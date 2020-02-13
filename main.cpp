@@ -1,12 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 
-
-
-
-
-
-int main()
-{
-printf("Holaaa wolrde");
-return 0;
+int main() {
+  printf("Holaaa wolrde");
+  return 0;
 }
